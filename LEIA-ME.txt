@@ -1,0 +1,7 @@
+SITE JÉSSICA VERETELNIK BOOKS
+
+Para publicar no GitHub Pages, envie o arquivo index.html E a pasta images (com todas as imagens) para a raiz do repositório.
+
+Os botões da Amazon atualmente abrem uma BUSCA pelo título, não uma página específica de produto. Substitua os links no index.html pelos links exatos dos livros quando disponíveis.
+
+GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root). Se a opção estiver desativada, pode ser necessário configurar GitHub Actions ou verificar permissões/configurações da conta.
